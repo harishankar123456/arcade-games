@@ -1,6 +1,6 @@
 # Arcade Games 🎮
 
-A professional, easy-to-use collection of classic arcade-style games implemented in Python using the Turtle graphics module. This repository is ideal for learning, teaching, or simply enjoying simple retro games with a modern Python twist.
+A simple collection of classic arcade-style games implemented in Python using the Turtle graphics module. This repository is ideal for learning.
 
 ## Games Included
 
